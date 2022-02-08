@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-	
+	cout<<"hot_fix";
 	
 	return 0;
 }
